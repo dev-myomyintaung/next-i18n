@@ -1,0 +1,10 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page",
+    "welcome": "Welcome to Next.js i18n Demo",
+    "description": "This is a simple demo of Next.js internationalization",
+    "switchLanguage": "Switch Language",
+    "currentLocale": "Current Language: English"
+  }
+}
